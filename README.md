@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/123509837/220655721-8fc53ad1-b030-4b9b-9d67-86f3a42123b6.png)
 
 ## Video Showcase
-- [https://youtu.be/E9cA6FUV4v0](https://youtu.be/d1QEwqNdvJ0)
+- [https://youtu.be/q9yy06_3jtk](https://youtu.be/q9yy06_3jtk)
 ## Features
 - Script NewQB destekler. (The script supports NewQB.)
 - 0.00 - 0.01 Resmon
