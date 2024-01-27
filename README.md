@@ -6,7 +6,7 @@
 ## Video Showcase
 - [https://youtu.be/c9mRIZrad0Q](https://youtu.be/c9mRIZrad0Q)
 ## Features
-- Script NewQB destekler. (The script supports NewQB.)
+- Script standalone şekilde çalışır. (The script works standalone.)
 - 0.00 - 0.01 Resmon
 - Hoş ve temiz tasarım. (Nice and clean design)
 - Notification count indicator
